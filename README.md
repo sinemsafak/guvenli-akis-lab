@@ -1,4 +1,4 @@
-# GüvenliAkış Lab ️
+# Güvenli Akış Lab ️
 
 React ve Vite kullanılarak geliştirilen, web uygulamalarında kimlik doğrulama arayüzü, oturum yönetimi ve kullanıcılar arası veri izolasyonunu incelemeyi amaçlayan eğitim projesi.
 
