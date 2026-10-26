@@ -2,6 +2,49 @@
 
 React ve Vite kullanılarak geliştirilen, web uygulamalarında kimlik doğrulama arayüzü, oturum yönetimi ve kullanıcılar arası veri izolasyonunu incelemeyi amaçlayan eğitim projesi.
 
+📸 Uygulama Ekran Görüntüleri
+
+Giriş ve Kimlik Doğrulama
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/9cf45a82-0c01-46ac-bdd6-9a1cfc6474e9" alt="Giriş ekranı" width="300">
+      <br>
+      <b>Giriş Ekranı</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/b0502b87-1d22-4d04-8cca-564f023523b1" alt="Kimlik doğrulama ekranı" width="300">
+      <br>
+      <b>Kimlik Doğrulama</b>
+    </td>
+  </tr>
+</table>
+
+Oturum Yönetimi ve Uygulama Ekranları
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/5ac155ea-1bd9-4819-8a37-b64801ea2cd2" alt="Oturum yönetimi ekranı" width="300">
+      <br>
+      <b>Oturum Yönetimi</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/36b6f4b9-b8d5-4719-8b06-c33a32a6b9cd" alt="Uygulama ekranı" width="300">
+      <br>
+      <b>Uygulama Arayüzü</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/6c58e854-90bd-4a9c-b0c4-35e262979552" alt="Ek uygulama ekranı" width="300">
+      <br>
+      <b>Ek Uygulama Görünümü</b>
+    </td>
+  </tr>
+</table>
+
 ##  Projenin Amacı
 
 Bu projenin amacı, web uygulamalarında güvenli kimlik doğrulama ve oturum yönetimi süreçlerinin temelini öğrenmek ve uygulamaktır.
